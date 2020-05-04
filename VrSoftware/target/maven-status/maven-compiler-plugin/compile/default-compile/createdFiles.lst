@@ -1,0 +1,8 @@
+br\com\vrsoftware\model\Aluno.class
+br\com\vrsoftware\model\Curso.class
+br\com\vrsoftware\controller\API.class
+br\com\vrsoftware\model\Disciplina.class
+br\com\vrsoftware\model\enums\PeriodoEnum.class
+br\com\vrsoftware\model\enums\DiaSemanaEnum.class
+br\com\vrsoftware\model\enums\TituloProfessorEnum.class
+br\com\vrsoftware\model\Professor.class
